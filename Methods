@@ -1,0 +1,5 @@
+public static void getMessage(){
+	    System.out.println("\033[H\033[J");
+	    System.out.println("We congratulate you! All the numbers you entered were correct, with the help of this information you will be able to find the hidden cargo!!!");
+	    System.exit(0);
+}
