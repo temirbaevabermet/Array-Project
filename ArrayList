@@ -1,0 +1,2 @@
+ArrayList<Integer> numberOfCorrectAnswers = new ArrayList<Integer>();
+ArrayList<Integer> array = new ArrayList<Integer>();
