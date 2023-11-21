@@ -4,3 +4,5 @@ int minimum = 1;
 int maximum = 9;		
 int attempt = 0;
 int a = 0;
+ArrayList<Integer> numberOfCorrectAnswers = new ArrayList<Integer>();
+ArrayList<Integer> array = new ArrayList<Integer>();
